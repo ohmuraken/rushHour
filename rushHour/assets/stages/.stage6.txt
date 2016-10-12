@@ -1,0 +1,12 @@
+10
+0
+0 3 2 0 ambulance
+1 4 2 1 patrol
+2 0 2 1 ambulance
+2 2 2 1 patrol
+2 4 2 0 ambulance
+2 5 3 0 fireengine
+3 0 3 0 fireengine
+4 3 2 1 patrol
+5 1 2 1 ambulance
+5 3 3 1 fireengine
